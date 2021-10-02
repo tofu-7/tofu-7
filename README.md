@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tofu-7/tofu-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### bio
+
+very gay trans girl studying maths at uni of edinburgh
+
+she / they
+
+### active projects 
+
+- python version of arrows (hopefully an ai for it later)
+- various worldbuilding projects
+
+### ideas
+
+- tectonic plate based elevation map generation software
