@@ -22,6 +22,7 @@ she / they
 
 - python version of arrows (hopefully an ai for it later)
 - various worldbuilding projects
+- maintaining a scuffed minecraft server from across an ocean
 
 ### ideas
 
