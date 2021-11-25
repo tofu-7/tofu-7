@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### bio
 
-very gay trans girl studying maths at uni of edinburgh
+very gay trans girl studying maths at uni of edinburgh, enjoyer of public infrastructure, hater of gadgetbahn
 
 she / they
 
