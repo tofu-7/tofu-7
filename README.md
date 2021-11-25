@@ -18,12 +18,12 @@ very gay trans girl studying maths at uni of edinburgh
 
 she / they
 
-### active projects 
+### "active" projects 
 
 - arrows (hopefully an ai for it later)
 - various worldbuilding projects
 - maintaining a scuffed minecraft server from across an ocean
 
-### ideas
+### ideas (steal these im never getting them done myself just make them under open source licenses)
 
 - tectonic plate based elevation map generation software
