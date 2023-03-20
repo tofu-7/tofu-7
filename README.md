@@ -14,16 +14,11 @@ Here are some ideas to get you started:
 -->
 ### bio
 
-very gay trans girl studying maths at uni of edinburgh, enjoyer of public infrastructure, hater of gadgetbahn
+very gay trans girl studying maths at uni of edinburgh, enjoyer of public transport, perpetually swamped with work
 
-she / they
+they / she
 
-### "active" projects 
+### active(n't) projects 
 
+- working on some very scuffed stuff with cs:go stats
 - arrows (hopefully an ai for it later)
-- various worldbuilding projects
-- maintaining a scuffed minecraft server from across an ocean
-
-### ideas (steal these im never getting them done myself just make them under open source licenses)
-
-- tectonic plate based elevation map generation software
